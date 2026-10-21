@@ -1,0 +1,9 @@
+streamlit
+rasterio
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit-image-coordinates
+Pillow
+scipy
